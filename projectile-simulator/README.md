@@ -10,6 +10,4 @@
 - Using indefinite iteration to output co-ordinates untill object falls back to y = 0 (ground).
 
 ## Potential next steps:
-- Round co-ordinate values to shorter decimal places for ease of reading.
-- Allow user to input how often the co-ordinates of the projectile's position along the arc are outputted.
 - Create a visual aspect to show a line on a graph for the projectile's motion.
